@@ -10,7 +10,7 @@
 ##### Решение 
 Файл "Задание 1.py" можно открыть в программе: Visual Studio Code или Py.Charm. Нажать на запуск программы и в консоли вводить данные, которые у вас запрашивают. После каждого ввода данных, нажать кливашу "Enter".
 
-![Тест]([https://postimg.cc/bDwpjQVc/70620fe4](https://github.com/Valeria2601/LAB1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.py))
+![Тест](https://github.com/Valeria2601/LAB1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
 
 
 ### Задание 2
@@ -20,4 +20,4 @@
 ##### Решение 
 Файл "Задание 2.py" можно открыть в программе: Visual Studio Code или Py.Charm. Нажать на запуск программы и в консоли вводить данные, которые у вас запрашивают. После каждого ввода данных, нажать кливашу "Enter".
 
-![Тест](https://postimg.cc/kDjDD5Wv)
+![Тест](https://github.com/Valeria2601/LAB1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
